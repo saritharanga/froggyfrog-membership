@@ -1,5 +1,7 @@
 {
-  "name": "froggyfrog",
+  "name": "froggyfrog-membership",
+  "author": "Rob",
+  "description": "A Membership system patterned after Devise",
   "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
